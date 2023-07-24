@@ -1,24 +1,19 @@
-.Number_1,
-.Number_3,
-.Number_5 {
-    background-color: pink;
-    font: sans-serif;
-
-
+.odd {
+    background-color: rgb(255, 167, 167);
+    font: sans-serif, Verdana, "DejaVu Sans";
 }
 
-#Number_2 {
+#second {
     color: blue;
     font-size: 36px;
 
 }
 
-.Number_3 {
+.third {
     font-size: 24px;
 }
 
-#Number_4 {
-    background-color: lightgreen;
-    font-size: 24px;
+#four {
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
