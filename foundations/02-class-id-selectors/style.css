@@ -1,0 +1,24 @@
+.Number_1,
+.Number_3,
+.Number_5 {
+    background-color: pink;
+    font: sans-serif;
+
+
+}
+
+#Number_2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.Number_3 {
+    font-size: 24px;
+}
+
+#Number_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
